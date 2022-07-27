@@ -1,0 +1,146 @@
+ .u-section-1 {
+  background-image: url("images/pexels-jos-luis-photographer-6910472.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 813px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 557px;
+  min-height: 494px;
+  margin: 145px auto 0 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 364px;
+  height: 393px;
+  background-image: none;
+  margin: 20px 20px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 25rem;
+  font-weight: 700;
+  line-height: 0.8;
+  margin: -289px auto 0 20px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  line-height: 1;
+  letter-spacing: 2px;
+  font-weight: 700;
+  margin: 0 auto 0 50px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  margin: -474px 50px 0 596px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 403px;
+  margin: 26px -18px 60px 588px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1212px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 85px;
+    margin-left: 162px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 47px;
+    margin-right: 269px;
+    margin-left: 209px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin: 62px 269px 58px 202px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 928px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -474px;
+    margin-right: 31px;
+    margin-left: 226px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 159px;
+    margin-left: 91px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 696px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 46px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 69px;
+    margin-left: 1px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 438px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 280px;
+    height: 290px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 15.625rem;
+    width: auto;
+    margin-top: -140px;
+    margin-left: -13px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 7px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
